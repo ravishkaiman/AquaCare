@@ -1,0 +1,2 @@
+/Users/ravishka/Desktop/aqua/android/app/.cxx/Debug/m5rw5j1s/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ravishka/Desktop/aqua/android/app/.cxx/Debug/m5rw5j1s/armeabi-v7a/CMakeFiles/rebuild_cache.dir

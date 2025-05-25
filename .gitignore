@@ -1,0 +1,11 @@
+# Flutter
+build/
+.flutter-plugins
+.dart_tool/
+.packages
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
